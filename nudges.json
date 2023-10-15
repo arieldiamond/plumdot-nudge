@@ -1,0 +1,224 @@
+[
+  {
+    "Prompt": "Does this cart spark joy or just emptying your wallet?",
+    "Humor": "Okay",
+    "Sensitivity": "Sensitive",
+    "Sounds Like": "Friend"
+  },
+  {
+    "Prompt": "Will this be a 'Yay!' or a 'Why did I buy this?' in a week?",
+    "Humor": "Okay",
+    "Sensitivity": "Neutral",
+    "Sounds Like": "Life Coach"
+  },
+  {
+    "Prompt": "Is it love at first sight or just a fleeting fling?",
+    "Humor": "Funny",
+    "Sensitivity": "Sensitive",
+    "Sounds Like": "Friend"
+  },
+  {
+    "Prompt": "Your future self might thank you for skipping this.",
+    "Humor": "Okay",
+    "Sensitivity": "Sensitive",
+    "Sounds Like": "Mentor"
+  },
+  {
+    "Prompt": "What would your pet say about this purchase?",
+    "Humor": "Funny",
+    "Sensitivity": "Neutral",
+    "Sounds Like": "Friend"
+  },
+  {
+    "Prompt": "Remember that other thing you bought and never used?",
+    "Humor": "Not Funny",
+    "Sensitivity": "Sensitive",
+    "Sounds Like": "Life Coach"
+  },
+  {
+    "Prompt": "Less is more, but is this the more you need?",
+    "Humor": "Okay",
+    "Sensitivity": "Neutral",
+    "Sounds Like": "Friend"
+  },
+  {
+    "Prompt": "Pause and ponder: need or want?",
+    "Humor": "Not Funny",
+    "Sensitivity": "Neutral",
+    "Sounds Like": "Parent"
+  },
+  {
+    "Prompt": "How many hours of work does this cart cost you?",
+    "Humor": "Okay",
+    "Sensitivity": "Neutral",
+    "Sounds Like": "Mentor"
+  },
+  {
+    "Prompt": "Quick reality check: Will this gather dust or memories?",
+    "Humor": "Okay",
+    "Sensitivity": "Sensitive",
+    "Sounds Like": "Life Coach"
+  },
+  {
+    "Prompt": "Is this purchase on your superhero side or your kryptonite side?",
+    "Humor": "Funny",
+    "Sensitivity": "Neutral",
+    "Sounds Like": "Friend"
+  },
+  {
+    "Prompt": "Would Grandma approve or shake her head?",
+    "Humor": "Okay",
+    "Sensitivity": "Neutral",
+    "Sounds Like": "Parent"
+  },
+  {
+    "Prompt": "In the grand story of your life, is this a main character or just a cameo?",
+    "Humor": "Okay",
+    "Sensitivity": "Sensitive",
+    "Sounds Like": "Mentor"
+  },
+  {
+    "Prompt": "Dollars are like votes. Is this where you want yours to go?",
+    "Humor": "Okay",
+    "Sensitivity": "Neutral",
+    "Sounds Like": "Mentor"
+  },
+  {
+    "Prompt": "Close your eyes. Can you still see yourself using this in a month?",
+    "Humor": "Okay",
+    "Sensitivity": "Sensitive",
+    "Sounds Like": "Friend"
+  },
+  {
+    "Prompt": "Sleep on it?",
+    "Humor": "Funny",
+    "Sensitivity": "Sensitive",
+    "Sounds Like": "Friend"
+  },
+  {
+    "Prompt": "If this purchase was a movie, would it be a blockbuster or a flop?",
+    "Humor": "Funny",
+    "Sensitivity": "Neutral",
+    "Sounds Like": "Friend"
+  },
+  {
+    "Prompt": "Hold up! Does this add value or clutter?",
+    "Humor": "Okay",
+    "Sensitivity": "Neutral",
+    "Sounds Like": "Life Coach"
+  },
+  {
+    "Prompt": "What story does this purchase tell?",
+    "Humor": "Okay",
+    "Sensitivity": "Sensitive",
+    "Sounds Like": "Mentor"
+  },
+  {
+    "Prompt": "Quick! Name three reasons you really need this.",
+    "Humor": "Not Funny",
+    "Sensitivity": "Neutral",
+    "Sounds Like": "Parent"
+  },
+  {
+    "Prompt": "For the price of this, how many tacos could you get instead?",
+    "Humor": "Funny",
+    "Sensitivity": "Neutral",
+    "Sounds Like": "Friend"
+  },
+  {
+    "Prompt": "Magic 8-ball says... 'Reconsider.'",
+    "Humor": "Funny",
+    "Sensitivity": "Neutral",
+    "Sounds Like": "Corporation"
+  },
+  {
+    "Prompt": "Time-travel forward: Are you smiling at this purchase?",
+    "Humor": "Okay",
+    "Sensitivity": "Sensitive",
+    "Sounds Like": "Life Coach"
+  },
+  {
+    "Prompt": "Consulting the stars: Maybe this isn't in your destiny today.",
+    "Humor": "Okay",
+    "Sensitivity": "Neutral",
+    "Sounds Like": "Corporation"
+  },
+  {
+    "Prompt": "Imagine explaining this buy to an alien. Still a good idea?",
+    "Humor": "Funny",
+    "Sensitivity": "Neutral",
+    "Sounds Like": "Friend"
+  },
+  {
+    "Prompt": "Do it for future you. Maybe leave it for now?",
+    "Humor": "Okay",
+    "Sensitivity": "Sensitive",
+    "Sounds Like": "Mentor"
+  },
+  {
+    "Prompt": "If your bank account could talk, what would it say?",
+    "Humor": "Okay",
+    "Sensitivity": "Neutral",
+    "Sounds Like": "Parent"
+  },
+  {
+    "Prompt": "You're the boss. Does this make the cut?",
+    "Humor": "Okay",
+    "Sensitivity": "Neutral",
+    "Sounds Like": "Mentor"
+  },
+  {
+    "Prompt": "Less today, more for tomorrow's dreams. What do you think?",
+    "Humor": "Okay",
+    "Sensitivity": "Sensitive",
+    "Sounds Like": "Life Coach"
+  },
+  {
+    "Prompt": "This might be a want. But is it a need?",
+    "Humor": "Not Funny",
+    "Sensitivity": "Neutral",
+    "Sounds Like": "Parent"
+  },
+  {
+    "Prompt": "Picture this in a year: Cherished memory or in the trash?",
+    "Humor": "Okay",
+    "Sensitivity": "Sensitive",
+    "Sounds Like": "Friend"
+  },
+  {
+    "Prompt": "On a scale of 1 to \"Absolutely need!\", where does this rank?",
+    "Humor": "Okay",
+    "Sensitivity": "Neutral",
+    "Sounds Like": "Life Coach"
+  },
+  {
+    "Prompt": "Think green. Is this eco-love or eco-luxury?",
+    "Humor": "Okay",
+    "Sensitivity": "Neutral",
+    "Sounds Like": "Corporation"
+  },
+  {
+    "Prompt": "In the theater of life, is this a spotlight or just an extra?",
+    "Humor": "Funny",
+    "Sensitivity": "Neutral",
+    "Sounds Like": "Friend"
+  },
+  {
+    "Prompt": "From FOMO to JOMO (Joy Of Missing Out). Feel the joy yet?",
+    "Humor": "Funny",
+    "Sensitivity": "Neutral",
+    "Sounds Like": "Friend"
+  },
+  {
+    "Prompt": "From space: Would an astronaut give this a thumbs up?",
+    "Humor": "Funny",
+    "Sensitivity": "Neutral",
+    "Sounds Like": "Friend"
+  },
+  {
+    "Prompt": "In the symphony of life, is this a solo or just background noise?",
+    "Humor": "Okay",
+    "Sensitivity": "Neutral",
+    "Sounds Like": "Friend"
+  }
+]
