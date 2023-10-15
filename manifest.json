@@ -1,11 +1,20 @@
 {
-    "name": "Plumdot Nudge",
-    "version": "0.0.1",
-    "description": "",
-    "manifest_version": 3,
-    "author": "Ariel Diamond",
-    "action": {
-        "default_popup": "index.html",
-        "default_title": "Plumdot Nudge"
+  "name": "Plumdot Nudge",
+  "version": "0.0.1",
+  "description": "",
+  "manifest_version": 3,
+  "author": "Ariel Diamond",
+  "action": {
+    "default_popup": "index.html",
+    "default_title": "Plumdot Nudge"
+  },
+  "icons": {
+    "128": "images/icon128.png"
+  },
+  "content_scripts": [
+    {
+      "js": ["scripts/script.js"],
+      "matches": ["https://*/*cart*", "https://*/*bag*"]
     }
+  ]
 }

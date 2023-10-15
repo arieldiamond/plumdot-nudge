@@ -3,6 +3,8 @@ function getRandomInt(max) {
 }
 
 async function fetchData() {
+    const cart = document.querySelector('cart');
+    console.log("CART", cart)
     const num = getRandomInt(36)
     const response = await fetch('https://raw.githubusercontent.com/arieldiamond/plumdot-nudge/main/nudges.json', {method: 'GET', 'Access-Control-Allow-Origin': '*' })
     const result = await response.json()
